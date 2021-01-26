@@ -1,0 +1,27 @@
+{
+  "name": "react-native-t2s",
+  "version": "3.2.0",
+  "description": "React Native Text-To-Speaker module for Android and iOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinjinghaohao/react-native-t2s.git"
+  },
+  "keywords": [
+    "tts",
+    "voice",
+    "speech",
+    "text-to-speech",
+    "text-to-speaker",
+    "react",
+    "react-native",
+    "android",
+    "ios"
+  ],
+  "author": "Anton Krasovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinjinghaohao/react-native-t2s/issues"
+  },
+  "homepage": "https://github.com/jinjinghaohao/react-native-t2s#readme"
+}
